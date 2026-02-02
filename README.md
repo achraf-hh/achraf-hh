@@ -52,18 +52,16 @@ I've completed two internships at **AtmView** — one in data engineering (fraud
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+## Languages
 [![Languages](https://skillicons.dev/icons?i=python,java,sql,cs&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+## AI / ML
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn,openai&theme=dark)](https://skillicons.dev)
 
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)](https://skillicons.dev)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs,react&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,django,&theme=dark)](https://skillicons.dev)
 
 **Databases & Infrastructure**
 
