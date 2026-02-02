@@ -1,18 +1,7 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding gif"/>
-</p>
-
-<h1 align="center">Hey, I'm Achraf 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:A9FEF7&height=210&section=header&text=Achraf%20Badreddine&fontSize=42&fontColor=A9FEF7&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20Backend&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=720&lines=Building+RAG+systems+%26+intelligent+APIs;ML+pipelines+%7C+data+engineering+%7C+backend+dev;Open+to+Summer+2026+internships+%F0%9F%9A%80" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1a1b27&center=true&vCenter=true&width=720&lines=Building+RAG+systems+%26+intelligent+APIs;ML+pipelines+%7C+data+engineering+%7C+backend+dev;Open+to+Summer+2026+internships+%F0%9F%9A%80" />
-    <img alt="Typing SVG"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=720&lines=Building+RAG+systems+%26+intelligent+APIs;ML+pipelines+%7C+data+engineering+%7C+backend+dev;Open+to+Summer+2026+internships+%F0%9F%9A%80" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+RAG+systems+%26+intelligent+APIs;ML+pipelines+%7C+data+engineering+%7C+backend+dev;Open+to+Summer+2026+internships" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +14,7 @@
   <a href="https://github.com/achraf-hh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=achraf-hh&color=A9FEF7&style=for-the-badge&label=VISITORS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=achraf-hh&color=58A6FF&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 </p>
 
 ---
@@ -42,48 +31,28 @@
 
 ## 🧰 Tech Stack
 
-### Languages
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=py,java,cs,js&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=py,java,cs,js&theme=light&perline=10" />
-    <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js&theme=dark&perline=10" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cs,js&theme=dark&perline=12" alt="Languages"/>
+  </a>
 </p>
 
-### ML / Data
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=light&perline=10" />
-    <img alt="ML/Data" src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark&perline=10" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark&perline=12" alt="ML/Data"/>
+  </a>
 </p>
 
-### Backend / Frameworks
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=spring,fastapi,django&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=spring,fastapi,django&theme=light&perline=10" />
-    <img alt="Backend/Frameworks" src="https://skillicons.dev/icons?i=spring,fastapi,django&theme=dark&perline=10" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs&theme=dark&perline=12" alt="Backend/Frameworks"/>
+  </a>
 </p>
 
-### Databases / Cloud / DevOps
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,azure,docker,git,githubactions&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,azure,docker,git,githubactions&theme=light&perline=9" />
-    <img alt="Infra" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,azure,docker,git,githubactions&theme=dark&perline=9" />
-  </picture>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,azure,docker,git,githubactions&theme=dark&perline=9" alt="Infra"/>
+  </a>
 </p>
 
 ---
@@ -109,5 +78,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=achraf-hh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=achraf-hh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%"/>
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:A9FEF7&height=110&section=footer" width="100%" />
