@@ -52,57 +52,22 @@ I've completed two internships at **AtmView** — one in data engineering (fraud
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="160"><b>Languages</b></td>
-<td>
+**Languages**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,cs" />
-  </a>
-</p>
+[![Languages](https://skillicons.dev/icons?i=python,java,sql,cs&theme=dark)](https://skillicons.dev)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160"><b>AI / ML</b></td>
-<td>
+**AI / ML**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-  </a>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI"/>
-</p>
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark)](https://skillicons.dev)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160"><b>Frameworks</b></td>
-<td>
+**Frameworks**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs,react" />
-  </a>
-</p>
+[![Frameworks](https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs,react&theme=dark)](https://skillicons.dev)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="160"><b>Databases &<br/>Infrastructure</b></td>
-<td>
+**Databases & Infrastructure**
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,azure,docker,git,github" />
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
+[![Databases & Infra](https://skillicons.dev/icons?i=postgres,sqlite,aws,docker,git,github&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -148,12 +113,12 @@ Always building something new. Check out my [repositories](https://github.com/ac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-hh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-hh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=achraf-hh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-hh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achraf-hh&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=A9FEF7&currStreakLabel=A9FEF7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=achraf-hh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
