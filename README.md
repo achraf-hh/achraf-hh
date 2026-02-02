@@ -1,118 +1,96 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:A9FEF7&height=220&section=header&text=Achraf%20Badreddine&fontSize=42&fontColor=A9FEF7&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20ML%20%7C%20Data%20%7C%20Backend&descSize=18&descColor=8B949E&descAlignY=55" width="100%"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+  <h1>Hey, I'm Achraf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
+</div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&random=false&width=520&lines=Building+RAG+systems+%26+intelligent+APIs;Exploring+ML%2C+data+pipelines+%26+backend+dev;Looking+for+Summer+2026+internship+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A9FEF7&center=true&vCenter=true&width=760&lines=Building+RAG+systems+%26+intelligent+APIs;ML+pipelines+%7C+data+engineering+%7C+backend+dev;Open+to+Summer+2026+internships+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/achraf-badreddine/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:badreddineachraf03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/achraf-hh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/achraf-badreddine/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:badreddineachraf03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/achraf-hh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=achraf-hh&color=A9FEF7&style=for-the-badge&label=VISITORS" alt="Profile views"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a computer engineering student in a double degree program between **École des Mines de Saint-Étienne** 🇫🇷 (ICM – Ingénieur Civil des Mines) and **INPT Morocco** 🇲🇦, with hands-on experience in ML, data engineering, and backend development.
-
-I've completed two internships at **AtmView** — one in data engineering (fraud detection, ASP.NET) and one in ML engineering (CRM analytics, predictive models, REST APIs on Azure). I enjoy building systems and solving real-world problems.
-
-```yaml
-🔭 Building: NoteStream — RAG-based PDF Q&A (Spring Boot + FastAPI + pgvector)
-🌱 Learning: MLOps, cloud architectures (AWS, Azure), advanced ML pipelines
-👯 Collaborating on: Open-source ML, data engineering, or backend projects
-🔍 Looking for: Summer 2026 internship — ML, data engineering, or backend
-💬 Ask me about: RAG systems, data pipelines, FastAPI, Spring Boot
-⚡ Fun fact: I speak 3 languages — Arabic 🇲🇦  French 🇫🇷  English 🇬🇧 (TOEIC 965)
-```
+## 👋 About
+- 🎓 Double-degree: **École des Mines de Saint-Étienne (ICM)** 🇫🇷 × **INPT Morocco** 🇲🇦
+- 🧠 Focus: **RAG**, **MLOps**, **data engineering**, **backend APIs**
+- 🛠️ Experience: Data/ML engineering internships (fraud detection, CRM analytics, Azure APIs)
+- 🚀 Building: **NoteStream** — RAG-based PDF Q&A (Spring Boot + FastAPI + pgvector)
+- 📬 Open to: **Summer 2026 internship** (ML / Data Eng / Backend)
+- 🌍 Languages: Arabic 🇲🇦 · French 🇫🇷 · English 🇬🇧 (**TOEIC 965**)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<p align="center">
+<div align="center">
 
-**Languages**
+**Languages**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,sql&theme=dark&perline=10" alt="Languages"/>
+</a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,cs&theme=dark" alt="Languages"/></a>
+**ML / Data**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,python&theme=dark&perline=10" alt="ML/Data"/>
+</a>
 
-**AI / ML**
+**Backend / Frameworks**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs&theme=dark&perline=10" alt="Backend/Frameworks"/>
+</a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="AI/ML"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" alt="OpenAI"/>
+**Databases / Cloud / DevOps**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,azure,docker,git,githubactions&theme=dark&perline=9" alt="Infra"/>
+</a>
 
-**Frameworks**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,fastapi,django,dotnet,nodejs,react&theme=dark" alt="Frameworks"/></a>
-
-**Databases & Infrastructure**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,aws,azure,docker,git,github&theme=dark" alt="Infra"/></a>
-
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/achraf-hh/notestream">📄 NoteStream</a>
-**RAG-based PDF Q&A System**
-
-Semantic extraction and analysis of educational content using retrieval-augmented generation. State-of-the-art RAG architecture comparison with relevance metrics.
-
-`Java 21` `Spring Boot` `FastAPI` `PostgreSQL` `pgvector` `OpenAI API`
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/achraf-hh/travel-planner-backend">✈️ Travel Planner</a>
-**AI-Powered Trip Generator**
-
-Generates 3 itineraries per budget and travel style. Django REST API serving 200+ activities with a TensorFlow recommendation engine.
-
-`Django` `Python` `SQLite` `React Native` `TensorFlow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔜 More coming soon...
-
-Always building something new.
-Check out my <a href="https://github.com/achraf-hh?tab=repositories">repositories</a> for the latest.
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://github.com/achraf-hh/notestream">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=achraf-hh&repo=notestream&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/achraf-hh/travel-planner-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=achraf-hh&repo=travel-planner-backend&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  </a>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Stats (no workflow)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-hh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-hh&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achraf-hh&theme=tokyonight" width="96%" alt="Profile Details"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=achraf-hh&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achraf-hh&theme=tokyonight" width="32%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=achraf-hh&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achraf-hh&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achraf-hh&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=achraf-hh&theme=tokyonight&hide_border=true" width="70%" alt="Streak"/>
+</div>
 
 ---
 
