@@ -53,7 +53,7 @@ I've completed two internships at **AtmView** — one in data engineering (fraud
 ## 🛠️ Tech Stack
 
 ## Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,sql,cs&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,sql,&theme=dark)](https://skillicons.dev)
 
 ## AI / ML
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow,sklearn,openai&theme=dark)](https://skillicons.dev)
@@ -111,20 +111,11 @@ Always building something new. Check out my [repositories](https://github.com/ac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achraf-hh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achraf-hh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achraf-hh&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achraf-hh&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=achraf-hh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=achraf-hh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achraf-hh&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A9FEF7&height=80&section=footer" width="100%"/>
-</p>
