@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Achraf.</h1>
 
 <p align="center">
-  <strong>Software engineer building production-minded AI and data systems.</strong>
+  <strong>Computer science engineering student building production-minded AI and data systems.</strong>
 </p>
 
 <p align="center">
