@@ -27,8 +27,8 @@ I'm completing a double-degree engineering program in computer science at
 data infrastructure, and backend engineering meet—turning messy information
 into reliable systems people can actually use.
 
-- Currently engineering on-premise financial-data systems at **Hellebore Technologies**
-- Previously shipped an internal AI agent serving **500+ requests/day**
+- Built an on-premise financial-document extraction service at **Hellebore Technologies** (**97.3% precision, 98.3% recall**)
+- Shipped an internal AI agent serving **500+ requests/day**
 - Built pipelines over **10,000+ financial transactions** for fraud detection
 
 ## Flagship project
@@ -68,7 +68,7 @@ Self-hosted the live service on Linux with secure tunneling.
 
 ## Experience at a glance
 
-- **Hellebore Technologies — Software Engineering Intern:** Building on-premise extraction and retrieval systems for financial trade data using FastAPI, PostgreSQL, LangGraph, and local LLMs
+- **Hellebore Technologies — AI Engineering Intern:** Owned an on-premise extraction service for financial documents end to end, and cut processing time from 12h to 4h by distributing inference across two GPUs (FastAPI, PostgreSQL, LangGraph, local LLMs)
 - **ATMView — Software Engineering Intern:** Shipped a CRM-integrated AI agent end-to-end, from training through internal REST deployment
 - **ATMView — Software Engineering Intern:** Developed fraud-detection pipelines and a role-based internal web application for 50+ users
 
