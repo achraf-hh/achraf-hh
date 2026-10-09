@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  LLM pipelines · Evaluation · Retrieval · Backend engineering
+  <img src="./assets/typing.svg" alt="Building LLM systems, and measuring whether they work. Local LLMs, RAG, evaluation harnesses. Python, Java, Spring Boot, FastAPI. Open to a 6-month internship from March 2027." width="720" />
 </p>
 
 <p align="center">
@@ -77,12 +77,22 @@ Self-hosted the live service on Linux with secure tunneling.
 
 ## Tools I reach for
 
+<p align="left">
+  <img src="./assets/skills.svg" alt="Python, Java, Spring Boot, FastAPI, PostgreSQL, Docker, Linux, Git, Bash, C" width="560" />
+</p>
+
 **Languages** &nbsp; Python · Java · SQL · C · Bash<br>
 **Backend** &nbsp; Spring Boot · FastAPI · REST · Microservices<br>
 **AI & LLMs** &nbsp; LangGraph · LangChain · llama.cpp · Ollama · pgvector · scikit-learn · Claude Code<br>
 **Data & infrastructure** &nbsp; PostgreSQL · MongoDB · Docker · Linux · Git
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achraf-hh/achraf-hh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achraf-hh/achraf-hh/output/github-snake.svg" />
+  <img alt="My GitHub contribution graph, eaten by a snake" src="https://raw.githubusercontent.com/achraf-hh/achraf-hh/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <sub>Based in France · Arabic, French, and English · TOEIC 965</sub>
