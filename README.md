@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Achraf%20Badreddine&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20and%20Software%20Engineering%20Student&descSize=18&descAlignY=56&animation=twinkling" width="100%" alt="Achraf Badreddine, AI and software engineering student" />
+<img src="./assets/banner.svg" width="100%" alt="Achraf Badreddine. AI and Software Engineering, LLM systems and evaluation. Open to a 6-month internship from March 2027." />
 
 <a href="https://github.com/achraf-hh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+LLM+systems+and+measuring+whether+they+work;Local+LLMs+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Evaluation;Python+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+FastAPI;Open+to+a+6-month+internship+from+March+2027" alt="Building LLM systems and measuring whether they work. Local LLMs, RAG, agents, evaluation. Python, Java, Spring Boot, FastAPI. Open to a 6-month internship from March 2027." /></a>
 
@@ -56,5 +56,3 @@ achraf = {
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="" />
