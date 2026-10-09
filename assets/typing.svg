@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44" role="img" aria-label="Building LLM systems, and measuring whether they work | Local LLMs · RAG · evaluation harnesses | Python · Java · Spring Boot · FastAPI | Open to a 6-month internship from March 2027">
+  <title>Building LLM systems, and measuring whether they work | Local LLMs · RAG · evaluation harnesses | Python · Java · Spring Boot · FastAPI | Open to a 6-month internship from March 2027</title>
+  <style>text { font-family: 'Fira Code', 'JetBrains Mono', Menlo, Consolas, monospace; font-size: 20px; fill: #4F8EF7; }</style>
+  <clipPath id="c0"><rect x="40.0" y="0" height="44" width="0">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.0000;0.1000;0.2125;0.2500;1" values="0;0;640.0;640.0;0;0"/></rect></clipPath>
+  <text x="360.0" y="29" text-anchor="middle" clip-path="url(#c0)">Building LLM systems, and measuring whether they work</text>
+  <clipPath id="c1"><rect x="124.0" y="0" height="44" width="0">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.2500;0.3500;0.4625;0.5000;1" values="0;0;472.0;472.0;0;0"/></rect></clipPath>
+  <text x="360.0" y="29" text-anchor="middle" clip-path="url(#c1)">Local LLMs · RAG · evaluation harnesses</text>
+  <clipPath id="c2"><rect x="136.0" y="0" height="44" width="0">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.5000;0.6000;0.7125;0.7500;1" values="0;0;448.0;448.0;0;0"/></rect></clipPath>
+  <text x="360.0" y="29" text-anchor="middle" clip-path="url(#c2)">Python · Java · Spring Boot · FastAPI</text>
+  <clipPath id="c3"><rect x="94.0" y="0" height="44" width="0">
+    <animate attributeName="width" dur="16.0s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.7500;0.8500;0.9625;1.0000;1" values="0;0;532.0;532.0;0;0"/></rect></clipPath>
+  <text x="360.0" y="29" text-anchor="middle" clip-path="url(#c3)">Open to a 6-month internship from March 2027</text>
+</svg>
