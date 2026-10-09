@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Achraf.</h1>
 
 <p align="center">
-  <strong>Computer science engineering student building production-minded AI and data systems.</strong>
+  <strong>Computer science engineering student building LLM systems, and the evaluation that tells you whether they work.</strong>
 </p>
 
 <p align="center">
-  Retrieval systems · Backend engineering · Data infrastructure
+  LLM pipelines · Evaluation · Retrieval · Backend engineering
 </p>
 
 <p align="center">
@@ -22,14 +22,17 @@
 
 ## About
 
-I'm completing a double-degree engineering program in computer science at
-**École des Mines de Saint-Étienne** and **INPT Rabat**. I work where retrieval,
-data infrastructure, and backend engineering meet—turning messy information
-into reliable systems people can actually use.
+I'm in the final year of a double-degree engineering program in computer science at
+**École des Mines de Saint-Étienne** and **INPT Rabat**. Most of what I build sits where
+LLMs, retrieval, and backend engineering meet, and I care as much about measuring a system
+as about building it.
 
-- Built an on-premise financial-document extraction service at **Hellebore Technologies** (**97.3% precision, 98.3% recall**)
+- At **Hellebore Technologies**, I ran a feasibility study on extracting the 22 fields of credit-derivatives trades from bank emails with a local LLM, fully on-premise: **97.3% precision, 98.3% recall** on a ground-truth set
+- Built the evaluation harness that steered an AI coding agent writing a model-free email splitter, and it caught the first version overfitting (**100%** on seen senders, **55.4%** on a held-out one)
+- Compared 3 local and 5 hosted models: the choice of model mattered about **10× less** than the pipeline around it
 - Shipped an internal AI agent serving **500+ requests/day**
-- Built pipelines over **10,000+ financial transactions** for fraud detection
+
+I'm looking for a **6-month end-of-studies internship from March 2027**, in AI or software engineering.
 
 ## Flagship project
 
@@ -68,16 +71,16 @@ Self-hosted the live service on Linux with secure tunneling.
 
 ## Experience at a glance
 
-- **Hellebore Technologies — AI Engineering Intern:** Owned an on-premise extraction service for financial documents end to end, and cut processing time from 12h to 4h by distributing inference across two GPUs (FastAPI, PostgreSQL, LangGraph, local LLMs)
-- **ATMView — Software Engineering Intern:** Shipped a CRM-integrated AI agent end-to-end, from training through internal REST deployment
-- **ATMView — Software Engineering Intern:** Developed fraud-detection pipelines and a role-based internal web application for 50+ users
+- **Hellebore Technologies, AI Engineering Intern (2026):** first a natural-language interface to the company's API (two-stage retrieval over pgvector, demoed to the whole company), then a local-LLM extraction study run fully on-premise, where I cut a 1,000-email run from 12h to 4h across two GPUs (Python, LangGraph, llama.cpp, Docker)
+- **ATMView, Software Engineering Intern (2025):** shipped a CRM-integrated AI agent end to end, from training to internal REST deployment
+- **ATMView, Software Engineering Intern (2024):** built fraud-detection pipelines and a role-based internal web application for 50+ users
 
 ## Tools I reach for
 
-**Languages** &nbsp; Java · Python · C · SQL · Bash<br>
-**Backend** &nbsp; Spring Boot · FastAPI · ASP.NET Core · REST · Microservices<br>
-**Data & AI** &nbsp; PostgreSQL · MongoDB · pgvector · LangChain · LangGraph · scikit-learn<br>
-**Infrastructure** &nbsp; Docker · Linux · Git
+**Languages** &nbsp; Python · Java · SQL · C · Bash<br>
+**Backend** &nbsp; Spring Boot · FastAPI · REST · Microservices<br>
+**AI & LLMs** &nbsp; LangGraph · LangChain · llama.cpp · Ollama · pgvector · scikit-learn · Claude Code<br>
+**Data & infrastructure** &nbsp; PostgreSQL · MongoDB · Docker · Linux · Git
 
 <br>
 
